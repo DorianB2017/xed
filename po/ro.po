@@ -12,7 +12,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-25 15:01+0100\n"
 "PO-Revision-Date: 2017-09-29 19:14+0000\n"
-"Last-Translator: Paul Andrew <Unknown>\n"
+"Last-Translator: Dorian Baciu <Unknown>\n"
 "Language-Team: Romanian "
 "(http://www.transifex.com/projects/p/MATE/language/ro/)\n"
 "MIME-Version: 1.0\n"
@@ -469,11 +469,11 @@ msgstr "Istoricul intrarilor \"cautare pentru\""
 
 #: ../data/org.x.editor.gschema.xml.in.h:86
 msgid "List of entries in \"search for\" textbox."
-msgstr "Listra intrarilor \"cautare pentru\" in textbox"
+msgstr "Lista intrărilor \"căutare pentru\" în textbox"
 
 #: ../data/org.x.editor.gschema.xml.in.h:87
 msgid "History for \"replace with\" entries"
-msgstr "istoricul intrarilor pentru \"inlocuieste cu\""
+msgstr "istoricul intrărilor pentru \"înlocuiește cu\""
 
 #: ../data/org.x.editor.gschema.xml.in.h:88
 msgid "List of entries in \"replace with\" textbox."
@@ -589,17 +589,17 @@ msgstr "Închide _fără a salva"
 #: ../plugins/filebrowser/xed-file-browser-utils.c:156
 #: ../plugins/spell/xed-spell-language-dialog.c:130
 msgid "_Cancel"
-msgstr ""
+msgstr "_Anulare"
 
 #: ../xed/xed-close-confirmation-dialog.c:159
 msgid "_Save As..."
-msgstr ""
+msgstr "_Salvare ca ..."
 
 #. File menu
 #: ../xed/xed-close-confirmation-dialog.c:163 ../xed/xed-commands-file.c:689
 #: ../xed/xed-ui.h:80
 msgid "_Save"
-msgstr ""
+msgstr "_Salvare"
 
 #: ../xed/xed-close-confirmation-dialog.c:188
 msgid "Question"
@@ -750,7 +750,7 @@ msgstr "Deschide fișiere"
 #: ../xed/xed-commands-file.c:407
 #: ../plugins/filebrowser/xed-file-browser-widget.c:770
 msgid "_Open"
-msgstr ""
+msgstr "_Deschide"
 
 #: ../xed/xed-commands-file.c:501
 #, c-format
@@ -960,7 +960,7 @@ msgstr "Unix/Linux"
 
 #: ../xed/xed-file-chooser-dialog.c:161
 msgid "Mac OS Classic"
-msgstr "SO Mac clasic"
+msgstr "MacOS clasic"
 
 #: ../xed/xed-file-chooser-dialog.c:162
 msgid "Windows"
